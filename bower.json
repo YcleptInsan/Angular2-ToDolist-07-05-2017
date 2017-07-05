@@ -6,7 +6,7 @@
     "guy <luckythelich@hotmail.com>"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/guyanderson/angular-to-do-tut",
   "ignore": [
     "**/.*",
     "node_modules",
